@@ -11,4 +11,4 @@
 - 📫 How to reach TheCloudSoft: [Website](https://thecloudsoft.com), [Facebook](https://facebook.com/thecloudsoft), [Instagram](https://instagram.com/thecloudsoft)
 - 📫 How to reach GrowWithHira: [YT Channel](https://www.youtube.com/channel/UCw0Gqnwi2C02nLqrvfVYEjg), [Facebook](https://facebook.com/growwithhira), [Instagram](https://instagram.com/growwithhira)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a movie and books addict
+- ⚡ Fun fact: I am Movies and Books addict and also an Explorer and Online Learner
