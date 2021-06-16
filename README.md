@@ -2,7 +2,7 @@
 
 ### Here is what I am working on
 
-- 🔭 I’m currently working as a [Technical Blogger](https://thecloudsoft.com), [Motivational Blogger](https://instagram.com/thehirashahid), [Photographer](https://instagram.com/portraitsbyhirashahid) [Youtuber](https://www.youtube.com/channel/UCw0Gqnwi2C02nLqrvfVYEjg) 
+- 🔭 I’m currently working as a [Technical Blogger](https://thecloudsoft.com), [Motivational Blogger](https://instagram.com/thehirashahid), [Photographer](https://instagram.com/portraitsbyhirashahid) and [Youtuber](https://www.youtube.com/channel/UCw0Gqnwi2C02nLqrvfVYEjg) 
 - 🌱 I’m currently learning Flutter Development 
 - 👯 I’m looking to collaborate on Flutter Development
 - 🤔 I’m looking for help with Google 
