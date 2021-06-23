@@ -121,15 +121,15 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.saad-hassan.com"><img src="https://img.shields.io/badge/-saadhassan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/saad-haxxan"><img src="https://img.shields.io/badge/-Saad%20Hassan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:saadhaxxan@ieee.org"><img src="https://img.shields.io/badge/-saadhaxxan@ieee.org-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/saadhaxxan"><img src="https://img.shields.io/badge/-@saadhaxxan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/saaadhaxxan"><img src="https://img.shields.io/badge/-@saaadhaxxan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://hirashahid.thecloudsoft.com/"><img src="https://img.shields.io/badge/-hirashahid.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/thehirashahid"><img src="https://img.shields.io/badge/-Hira%20Shahid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:itshira696@gmail.com"><img src="https://img.shields.io/badge/-itshira696@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/thehirashahid"><img src="https://img.shields.io/badge/-@thehirashahid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/thehirashahid"><img src="https://img.shields.io/badge/-@thehirashahid-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 ## Contribution Graph
 
-[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadhaxxan&theme=xcode)](https://github.com/saadhaxxan)
+[![Hira's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hirashahid&theme=xcode)](https://github.com/hirashahid)
 
 ## Some Community Projects
 
@@ -153,10 +153,10 @@
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
-<a href="https://github.com/saadhaxxan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadhaxxan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadhaxxan&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/hirashahid">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hirashahid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hirashahid&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadhaxxan&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=hirashahid&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
