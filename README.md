@@ -1,21 +1,19 @@
-# Hi there, I'm Saad 👋
+# Hi there, I'm Hira 👋
 
-### I'm a Developer, Teacher and Researcher!
-- 🔭 I’m currently working as Full Stack Developer.
-- 🌱 I’m currently learning Competitive-coding, large scale distributed systems design and backend engineering.
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 1k students.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+### I am Developer, Blogger and Youtuber.
+- 🔭 I’m currently working as Flutter Developer.
+- 🌱 I do write about Tech~TheCloudSoft, so Follow [TheCloudSoft](https://thecloudsoft.com/) on [Facebook](https://www.facebook.com/thecloudsoft), [Linkedin](https://www.linkedin.com/company/thecloudsoft/) and [Instagram](https://www.instagram.com/thecloudsoft)
+- 📢 Love to teach, motivate and inspire people to live a better life. So having a Youtube Channel named as [Hira Shahid~Grow With Hira](https://www.youtube.com/channel/UCw0Gqnwi2C02nLqrvfVYEjg), Follow on [Facebook](https://www.facebook.com/growwithhira/) and [Instagram](https://www.instagram.com/growwithhira/).
 
 <h2><i>💻 Tech Stack</i></h2>
 
 <table width="100">
 <tr>
-    <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
     </td>
     <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
@@ -29,19 +27,19 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60" height="60">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60" height="60">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
-    </td>
-    <td align='center'>
-        <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="120">
-    </td>
-    <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" height="120">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg">
     </td>
 </tr>
 <tr>
@@ -52,27 +50,27 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
     </td>
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
+        <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg">
     </td>
     <td align='center'>
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
     <td align='center'>
-        <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
     </td>
     <td align='center'>
-        <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
+        <img src="https://github.com/detain/svg-logos/blob/master/svg/netbeans.svg">
     </td>
     <td align='center'>
         <img src="https://cdn-images-1.medium.com/max/1200/1*kqpVTzo8b0e2oKdOjWQxZA.png">
