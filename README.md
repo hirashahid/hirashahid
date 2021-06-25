@@ -61,7 +61,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg">
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" >
