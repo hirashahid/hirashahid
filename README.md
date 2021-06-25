@@ -104,15 +104,6 @@
 | [**Flutter-TheShopApp**](https://github.com/hirashahid/Flutter-TheShopApp) | [![GitHub issues](https://img.shields.io/github/issues/hirashahid/Flutter-TheShopApp?color=green&logo=github&style=flat)](https://github.com/hirashahid/Flutter-TheShopApp/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/hirashahid/Flutter-TheShopApp?style=flat&logo=github)](https://github.com/hirashahid/Flutter-TheShopApp/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/hirashahid/Flutter-TheShopApp?style=flat&color=critical&logo=github)](https://github.com/hirashahid/Flutter-TheShopApp/pulls?q=is%3Apr+is%3Aclosed)   |
 | [**Flutter-TheMealApp**](https://github.com/hirashahid/Flutter-TheMealApp) | [![GitHub issues](https://img.shields.io/github/issues/hirashahid/Flutter-TheMealApp?color=green&logo=github&style=flat)](https://github.com/hirashahid/Flutter-TheMealApp/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/hirashahid/Flutter-TheMealApp?style=flat&logo=github)](https://github.com/hirashahid/Flutter-TheMealApp/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/hirashahid/Flutter-TheMealApp?style=flat&color=critical&logo=github)](https://github.com/hirashahid/Flutter-TheMealApp/pulls?q=is%3Apr+is%3Aclosed)   |
 
-## My Activities :mailbox_with_mail:
-
-| BOOTCAMPS & SESSIONS :tv: | 
-| :--- |
-| [Deep Learning with Tensorflow ](https://github.com/dscuol/Deep-Learning-Course) |
-| [Machine Learning Course](https://github.com/dscuol/Machine-Learning-Course) |
-| [Web Development Bootcamp](https://github.com/dscuol/Web-Development-Bootcamp) | 
-| [Advanced Web Development Bootcamp](https://github.com/dscuol/Advanced-web-development-series) | 
-| [NLP Bootcamp](https://github.com/dscuol/Natural-Language-Processing-Bootcamp) | 
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
