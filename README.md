@@ -19,7 +19,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
     </td>
      <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="100">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
@@ -30,13 +30,13 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60" height="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" height="120">
+        <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="120">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg">
@@ -44,79 +44,43 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="60" >
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg">
     </td>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
+        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg">
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg">
     </td>
     <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" >
     </td>
     <td align='center'>
         <img src="https://github.com/detain/svg-logos/blob/master/svg/netbeans.svg">
     </td>
     <td align='center'>
-        <img src="https://cdn-images-1.medium.com/max/1200/1*kqpVTzo8b0e2oKdOjWQxZA.png">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
     </td>
 </tr>
-<tr>
-    <td align='center'>
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
-    </td>
-    <td align='center'>
-        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
-    </td>
-    <td align='center'>
-        <img src="https://www.iglobsyn.com/wp-content/uploads/2019/09/Ruby-on-rails-development.png">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png">
-    </td>
-    <td align='center'>
-        <img src="https://www.endivesoftware.com/blog/wp-content/uploads/2020/01/Spring-Boot-Application-Development.png">
-    </td>
-</tr>
-
-<tr>
-    <td align='center'>
-        <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
-    </td>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
-    </td>
-    <td align='center'>
-        <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" >
-    </td>
-    <td align='center'>
-        <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" >
-    </td>
-</tr>
-    
 </table>
 
 <br />
 <br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saadhaxxan" alt="Saad Hassan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hirashahid" alt="Hira Shahid" /> </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
