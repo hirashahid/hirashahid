@@ -82,7 +82,7 @@
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirashahid" alt="Hira Shahid" /> </p>
 
-## 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;<i>Connect with Me</i>
 
 <p align="center">
 <a href="https://hirashahid.thecloudsoft.com/"><img src="https://img.shields.io/badge/-hirashahid.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -91,7 +91,7 @@
 <a href="https://instagram.com/thehirashahid"><img src="https://img.shields.io/badge/-@thehirashahid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/thehirashahid"><img src="https://img.shields.io/badge/-@thehirashahid-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
-## Contribution Graph
+## <i>Contribution Graph</i>
 
 [![Hira's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hirashahid&theme=xcode)](https://github.com/hirashahid)
 
