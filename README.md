@@ -95,7 +95,7 @@
 
 [![Hira's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hirashahid&theme=xcode)](https://github.com/hirashahid)
 
-## Some Flutter Projects
+## <i>Some Flutter Projects</i>
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
