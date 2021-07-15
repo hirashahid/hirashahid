@@ -1,86 +1,55 @@
-# Hi there, I'm Hira 👋
+## Hola, I'm [Hira Shahid!](https://hirashahid.thecloudsoft.com) 👋
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirashahid&label=Views&color=blue&style=plastic" alt="hirashahid" /> </p>
+
+<a href="https://twitter.com/thehirashahid">
+  <img align="left" alt="Hira's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/thehirashahid">
+  <img align="left" alt="Hira's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/hirashahid">
+  <img align="left" alt="Hira's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/thehirashahid/">
+  <img align="left" alt="Hira's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/thehirashahid/">
+  <img align="left" alt="Hira's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCw0Gqnwi2C02nLqrvfVYEjg">
+  <img align="left" alt="Hira's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<br/>
 
 ### I am Developer, Blogger and Youtuber.
 - 🔭 I’m currently working as Flutter Developer.
 - 🌱 I do write about Tech~TheCloudSoft, so Follow [TheCloudSoft](https://thecloudsoft.com/) on [Facebook](https://www.facebook.com/thecloudsoft), [Linkedin](https://www.linkedin.com/company/thecloudsoft/) and [Instagram](https://www.instagram.com/thecloudsoft)
 - 📢 Love to teach, motivate and inspire people to live a better life. So having a Youtube Channel named as [Hira Shahid~Grow With Hira](https://www.youtube.com/channel/UCw0Gqnwi2C02nLqrvfVYEjg), Follow on [Facebook](https://www.facebook.com/growwithhira/) and [Instagram](https://www.instagram.com/growwithhira/).
+- 💬 Ask me about Flutter or any tech-related stuff.
+- 📫 How to reach me: [LinkedIn - @thehirashahid](https://linkedin.com/in/thehirashahid) , [Instagram - @thehirashahid](https://instagram.com/thehirashahid)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I do read alot
 
-<h2><i>💻 Tech Stack</i></h2>
+[![Twitter: thehirashahid](https://img.shields.io/twitter/follow/thehirashahid?style=social)](https://twitter.com/thehirashahid)
+[![Linkedin: thehirashahid](https://img.shields.io/badge/-thehirashahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thehirashahid/)](https://www.linkedin.com/in/thehirashahid/)
+[![GitHub hirashahid](https://img.shields.io/github/followers/hirashahid?label=follow&style=social)](https://github.com/hirashahid)
+[![website](https://img.shields.io/badge/PortfolioWebsite-hirashahid-2648ff?style=flat-square&logo=google-chrome)](https://hirashahid.thecloudsoft.com/)
+[![website](https://img.shields.io/badge/TechWebsite-thecloudsoft-2648ff?style=flat-square&logo=google-chrome)](https://thecloudsoft.com/)
 
-<table width="100">
-<tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
-    </td>
-     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="100">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60" height="60">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="120">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="60" >
-    </td>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" >
-    </td>
-    <td align='center'>
-        <img src="https://github.com/detain/svg-logos/blob/master/svg/netbeans.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
-    </td>
-</tr>
-</table>
 
-<br />
-<br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hirashahid" alt="Hira Shahid" /> </p>
+ ## Languages and Tools:  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+
 
 ## 🤝🏻 &nbsp;<i>Connect with Me</i>
 
