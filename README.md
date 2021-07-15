@@ -51,7 +51,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 
-## 🤝🏻 &nbsp;<i>Connect with Me</i>
+## Connect with Me
 
 <p align="center">
 <a href="https://hirashahid.thecloudsoft.com/"><img src="https://img.shields.io/badge/-hirashahid.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -60,11 +60,11 @@
 <a href="https://instagram.com/thehirashahid"><img src="https://img.shields.io/badge/-@thehirashahid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/thehirashahid"><img src="https://img.shields.io/badge/-@thehirashahid-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
-## <i>Contribution Graph</i>
+## Contribution Graph
 
 [![Hira's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hirashahid&theme=xcode)](https://github.com/hirashahid)
 
-## <i>Some Flutter Projects</i>
+## Some Flutter Projects
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
@@ -74,7 +74,7 @@
 | [**Flutter-TheMealApp**](https://github.com/hirashahid/Flutter-TheMealApp) | [![GitHub issues](https://img.shields.io/github/issues/hirashahid/Flutter-TheMealApp?color=green&logo=github&style=flat)](https://github.com/hirashahid/Flutter-TheMealApp/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/hirashahid/Flutter-TheMealApp?style=flat&logo=github)](https://github.com/hirashahid/Flutter-TheMealApp/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/hirashahid/Flutter-TheMealApp?style=flat&color=critical&logo=github)](https://github.com/hirashahid/Flutter-TheMealApp/pulls?q=is%3Apr+is%3Aclosed)   |
 
 
-<h2><i>⚙️ GitHub Analytics</i></h2>
+## GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/hirashahid">
