@@ -24,11 +24,9 @@
 
 <br/>
 
-### I am Developer, Blogger and Youtuber.
-- 🔭 I’m currently working as Flutter Developer.
+### I am Cloud App (Node) Developer and A Tech Blogger.
 - 🌱 I do write about Tech~TheCloudSoft, so Follow [TheCloudSoft](https://thecloudsoft.com/) on [Facebook](https://www.facebook.com/thecloudsoft), [Linkedin](https://www.linkedin.com/company/thecloudsoft/) and [Instagram](https://www.instagram.com/thecloudsoft)
-- 📢 Love to teach, motivate and inspire people to live a better life. So having a Youtube Channel named as [Hira Shahid~Grow With Hira](https://www.youtube.com/channel/UCw0Gqnwi2C02nLqrvfVYEjg), Follow on [Facebook](https://www.facebook.com/growwithhira/) and [Instagram](https://www.instagram.com/growwithhira/).
-- 💬 Ask me about Flutter or any tech-related stuff.
+- 💬 Ask me about Node and Cloud or any tech-related stuff.
 - 📫 How to reach me: [LinkedIn - @thehirashahid](https://linkedin.com/in/thehirashahid) , [Instagram - @thehirashahid](https://instagram.com/thehirashahid)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I do read alot
@@ -66,14 +64,13 @@
 
 [![Hira's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hirashahid&theme=xcode)](https://github.com/hirashahid)
 
-## Some Flutter Projects
+## Some Node Projects
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
-| [**Flutter-ClimateApp**](https://github.com/hirashahid/Flutter-ClimateApp) | [![GitHub issues](https://img.shields.io/github/issues/hirashahid/Flutter-ClimateApp?color=green&logo=github&style=flat)](https://github.com/hirashahid/Flutter-ClimateApp/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/hirashahid/Flutter-ClimateApp?style=flat&logo=github)](https://github.com/hirashahid/Flutter-ClimateApp/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/hirashahid/Flutter-ClimateApp?style=flat&color=critical&logo=github)](https://github.com/hirashahid/Flutter-ClimateApp/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**Flutter-TheChatApp**](https://github.com/hirashahid/Flutter-TheChatApp) | [![GitHub issues](https://img.shields.io/github/issues/hirashahid/Flutter-TheChatApp?color=green&logo=github&style=flat)](https://github.com/hirashahid/Flutter-TheChatApp/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/hirashahid/Flutter-TheChatApp?style=flat&logo=github)](https://github.com/hirashahid/Flutter-TheChatApp/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/hirashahid/Flutter-TheChatApp?style=flat&color=critical&logo=github)](https://github.com/hirashahid/Flutter-TheChatApp/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**Flutter-TheShopApp**](https://github.com/hirashahid/Flutter-TheShopApp) | [![GitHub issues](https://img.shields.io/github/issues/hirashahid/Flutter-TheShopApp?color=green&logo=github&style=flat)](https://github.com/hirashahid/Flutter-TheShopApp/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/hirashahid/Flutter-TheShopApp?style=flat&logo=github)](https://github.com/hirashahid/Flutter-TheShopApp/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/hirashahid/Flutter-TheShopApp?style=flat&color=critical&logo=github)](https://github.com/hirashahid/Flutter-TheShopApp/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**Flutter-TheMealApp**](https://github.com/hirashahid/Flutter-TheMealApp) | [![GitHub issues](https://img.shields.io/github/issues/hirashahid/Flutter-TheMealApp?color=green&logo=github&style=flat)](https://github.com/hirashahid/Flutter-TheMealApp/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/hirashahid/Flutter-TheMealApp?style=flat&logo=github)](https://github.com/hirashahid/Flutter-TheMealApp/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/hirashahid/Flutter-TheMealApp?style=flat&color=critical&logo=github)](https://github.com/hirashahid/Flutter-TheMealApp/pulls?q=is%3Apr+is%3Aclosed)   |
+| [**Nodejs-UserRegistrationApp**](https://github.com/hirashahid/Nodejs-LoginRegister) | [![GitHub issues](https://img.shields.io/github/issues/hirashahid/Flutter-ClimateApp?color=green&logo=github&style=flat)](https://github.com/hirashahid/Flutter-ClimateApp/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/hirashahid/Flutter-ClimateApp?style=flat&logo=github)](https://github.com/hirashahid/Flutter-ClimateApp/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/hirashahid/Flutter-ClimateApp?style=flat&color=critical&logo=github)](https://github.com/hirashahid/Flutter-ClimateApp/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**Nodejs-TheCrudApp**](https://github.com/hirashahid/Nodejs-TheCrudApp) | [![GitHub issues](https://img.shields.io/github/issues/hirashahid/Flutter-TheChatApp?color=green&logo=github&style=flat)](https://github.com/hirashahid/Flutter-TheChatApp/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/hirashahid/Flutter-TheChatApp?style=flat&logo=github)](https://github.com/hirashahid/Flutter-TheChatApp/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/hirashahid/Flutter-TheChatApp?style=flat&color=critical&logo=github)](https://github.com/hirashahid/Flutter-TheChatApp/pulls?q=is%3Apr+is%3Aclosed)   |
+| [**Nodejs-TheChatApp**](https://github.com/hirashahid/Nodejs-TheChatApp) | [![GitHub issues](https://img.shields.io/github/issues/hirashahid/Flutter-TheShopApp?color=green&logo=github&style=flat)](https://github.com/hirashahid/Flutter-TheShopApp/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/hirashahid/Flutter-TheShopApp?style=flat&logo=github)](https://github.com/hirashahid/Flutter-TheShopApp/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/hirashahid/Flutter-TheShopApp?style=flat&color=critical&logo=github)](https://github.com/hirashahid/Flutter-TheShopApp/pulls?q=is%3Apr+is%3Aclosed)   |
 
 
 ## GitHub Analytics
