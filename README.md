@@ -54,9 +54,9 @@
 ## Connect with Me
 
 <p align="center">
-<a href="https://hirashahid.thecloudsoft.com/"><img src="https://img.shields.io/badge/-hirashahid.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/thehirashahid"><img src="https://img.shields.io/badge/-Hira%20Shahid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://hirashahid.thecloudsoft.com/"><img src="https://img.shields.io/badge/-hirashahid.thecloudsoft.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:itshira696@gmail.com"><img src="https://img.shields.io/badge/-itshira696@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/thehirashahid"><img src="https://img.shields.io/badge/-Hira%20Shahid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/thehirashahid"><img src="https://img.shields.io/badge/-@thehirashahid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/thehirashahid"><img src="https://img.shields.io/badge/-@thehirashahid-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
