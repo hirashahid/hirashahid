@@ -25,7 +25,7 @@
 <br/>
 
 ### I am MERN Stack Developer.
-- 🌱 I do write about Tech~TheCloudSoft, so Follow [TheCloudSoft](https://thecloudsoft.com/) on [Facebook](https://www.facebook.com/thecloudsoft), [Linkedin](https://www.linkedin.com/company/thecloudsoft/) and [Instagram](https://www.instagram.com/thecloudsoft)
+- 🌱 I do write about Tech~TheCloudSoft, so Follow on [Facebook](https://www.facebook.com/thecloudsoft), [Linkedin](https://www.linkedin.com/company/thecloudsoft/) and [Instagram](https://www.instagram.com/thecloudsoft)
 - 💬 Ask me about Node and Cloud or any tech-related stuff.
 - 📫 How to reach me: [LinkedIn - @thehirashahid](https://linkedin.com/in/thehirashahid) , [Instagram - @thehirashahid](https://instagram.com/thehirashahid)
 - 😄 Pronouns: She/Her
