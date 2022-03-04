@@ -18,9 +18,6 @@
 <a href="https://www.facebook.com/thehirashahid/">
   <img align="left" alt="Hira's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCw0Gqnwi2C02nLqrvfVYEjg">
-  <img align="left" alt="Hira's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 
 <br/>
 
@@ -34,8 +31,7 @@
 [![Twitter: thehirashahid](https://img.shields.io/twitter/follow/thehirashahid?style=social)](https://twitter.com/thehirashahid)
 [![Linkedin: thehirashahid](https://img.shields.io/badge/-thehirashahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thehirashahid/)](https://www.linkedin.com/in/thehirashahid/)
 [![GitHub hirashahid](https://img.shields.io/github/followers/hirashahid?label=follow&style=social)](https://github.com/hirashahid)
-[![website](https://img.shields.io/badge/PortfolioWebsite-hirashahid-2648ff?style=flat-square&logo=google-chrome)](https://hirashahid.thecloudsoft.com/)
-[![website](https://img.shields.io/badge/TechWebsite-thecloudsoft-2648ff?style=flat-square&logo=google-chrome)](https://thecloudsoft.com/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-hirashahid-2648ff?style=flat-square&logo=google-chrome)](https://hirashahid.netlify.app/)
 
 
  ## Languages and Tools:  
@@ -54,7 +50,6 @@
 ## Connect with Me
 
 <p align="center">
-<a href="https://hirashahid.thecloudsoft.com/"><img src="https://img.shields.io/badge/-hirashahid.thecloudsoft.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:itshira696@gmail.com"><img src="https://img.shields.io/badge/-itshira696@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/thehirashahid"><img src="https://img.shields.io/badge/-Hira%20Shahid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/thehirashahid"><img src="https://img.shields.io/badge/-@thehirashahid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
