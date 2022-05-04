@@ -1,4 +1,4 @@
-## Hola, I'm [Hira Shahid!](https://hirashahid.thecloudsoft.com) 👋
+## Hola, I'm [Hira Shahid!](https://hirashahid.netlify.app/) 👋
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirashahid&label=Views&color=blue&style=plastic" alt="hirashahid" /> </p>
@@ -21,8 +21,9 @@
 
 <br/>
 
-### I am MERN Stack Developer.
-- 🌱 I do write about Tech~TheCloudSoft, so Follow on [Facebook](https://www.facebook.com/thecloudsoft), [Linkedin](https://www.linkedin.com/company/thecloudsoft/) and [Instagram](https://www.instagram.com/thecloudsoft)
+### I am Software Developer.
+- 🔭 I’m currently working as Backend MERN Stack Developer.
+- 🌱 I’m expanding my knowledge in Cloud Computing and DevOps.
 - 💬 Ask me about Node and Cloud or any tech-related stuff.
 - 📫 How to reach me: [LinkedIn - @thehirashahid](https://linkedin.com/in/thehirashahid) , [Instagram - @thehirashahid](https://instagram.com/thehirashahid)
 - 😄 Pronouns: She/Her
@@ -77,4 +78,17 @@
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=hirashahid&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
+</p>
+
+# Github Contributions
+<h4 align="center">Isometric view of contributions in the last year</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
+
+# Github Metrics
+<p align="center">
+	<img width="625em" src="https://github.com/hirashahid/hirashahid/blob/master/github-metrics.svg" />
 </p>
