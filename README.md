@@ -22,7 +22,7 @@
 <br/>
 
 ### I am Software Developer.
-- 🔭 I’m currently working as Backend MERN Stack Developer.
+- 🔭 I’m currently working as Backend MERN Stack Developer at Systems Limited.
 - 🌱 I’m expanding my knowledge in Cloud Computing and DevOps.
 - 💬 Ask me about Node and Cloud or any tech-related stuff.
 - 📫 How to reach me: [LinkedIn - @thehirashahid](https://linkedin.com/in/thehirashahid) , [Instagram - @thehirashahid](https://instagram.com/thehirashahid)
@@ -55,10 +55,6 @@
 <a href="https://linkedin.com/in/thehirashahid"><img src="https://img.shields.io/badge/-Hira%20Shahid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/thehirashahid"><img src="https://img.shields.io/badge/-@thehirashahid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/thehirashahid"><img src="https://img.shields.io/badge/-@thehirashahid-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
-## Contribution Graph
-
-[![Hira's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hirashahid&theme=xcode)](https://github.com/hirashahid)
 
 ## Some Node Projects
 
