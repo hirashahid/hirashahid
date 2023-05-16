@@ -22,9 +22,8 @@
 <br/>
 
 ### I am an Associate Software Engineer.
-- 🔭 I’m currently working as Backend MERN Stack Developer at Systems Limited.
-- 🌱 I’m expanding my knowledge in Cloud Computing and DevOps.
-- 💬 Ask me about Node and Cloud or any tech-related stuff.
+- 🔭 I’m currently working as MERN Stack Developer at Devsinc.
+- 💬 Ask me about Node related stuff.
 - 📫 How to reach me: [LinkedIn - @thehirashahid](https://linkedin.com/in/thehirashahid) , [Instagram - @thehirashahid](https://instagram.com/thehirashahid)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I do read alot
