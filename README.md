@@ -22,7 +22,7 @@
 <br/>
 
 ### I am an Associate Software Engineer.
-- 🔭 I’m currently working as MERN Stack Developer at Devsinc.
+- 🔭 I’m currently working as Associate Software Engineer at Devsinc.
 - 💬 Ask me about Node related stuff.
 - 📫 How to reach me: [LinkedIn - @thehirashahid](https://linkedin.com/in/thehirashahid) , [Instagram - @thehirashahid](https://instagram.com/thehirashahid)
 - 😄 Pronouns: She/Her
